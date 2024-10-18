@@ -1,0 +1,1 @@
+../build-Debug/PL1/up_up_up_up_Downloads_NodoCola.cpp.o ../build-Debug/PL1/up_up_up_up_Downloads_NodoPila.cpp.o ../build-Debug/PL1/up_up_up_up_Downloads_Gestor.cpp.o ../build-Debug/PL1/up_up_up_up_Downloads_Cola.cpp.o ../build-Debug/PL1/up_up_up_up_Downloads_Pila.cpp.o ../build-Debug/PL1/up_up_up_up_Downloads_Proceso.cpp.o ../build-Debug/PL1/up_up_up_up_Downloads_main.cpp.o   

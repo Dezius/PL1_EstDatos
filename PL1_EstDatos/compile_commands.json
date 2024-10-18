@@ -1,0 +1,53 @@
+[{
+  "file": "C:\\Users\\carlo\\Downloads\\NodoCola.hpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\NodoCola.hpp -o C:\\Users\\carlo\\Downloads\\NodoCola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Gestor.hpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Gestor.hpp -o C:\\Users\\carlo\\Downloads\\Gestor.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\NodoCola.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\NodoCola.cpp -o C:\\Users\\carlo\\Downloads\\NodoCola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Cola.hpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Cola.hpp -o C:\\Users\\carlo\\Downloads\\Cola.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Proceso.hpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Proceso.hpp -o C:\\Users\\carlo\\Downloads\\Proceso.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\NodoPila.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\NodoPila.cpp -o C:\\Users\\carlo\\Downloads\\NodoPila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Gestor.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Gestor.cpp -o C:\\Users\\carlo\\Downloads\\Gestor.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Cola.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Cola.cpp -o C:\\Users\\carlo\\Downloads\\Cola.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Pila.hpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Pila.hpp -o C:\\Users\\carlo\\Downloads\\Pila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Pila.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Pila.cpp -o C:\\Users\\carlo\\Downloads\\Pila.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\Proceso.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\Proceso.cpp -o C:\\Users\\carlo\\Downloads\\Proceso.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\NodoPila.hpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\NodoPila.hpp -o C:\\Users\\carlo\\Downloads\\NodoPila.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\carlo\\Downloads\\main.cpp",
+  "directory": "C:\\Users\\carlo\\OneDrive\\Escritorio\\PL1_EstDatos\\PL1",
+  "command": "clang++ -c C:\\Users\\carlo\\Downloads\\main.cpp -o C:\\Users\\carlo\\Downloads\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
