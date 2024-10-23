@@ -55,7 +55,7 @@ void Pila::mostrar()
         aux = aux->siguiente;
     }
 }
-
+//hola
 int Pila::getLongitud()
 {
     return this->longitud;
